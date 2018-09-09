@@ -49,3 +49,5 @@ Navigating to another page #: 28
 
 If you see browser lagged,or internet lagged and you want to continue, press cntrl+c on terminal and it will continue skipping problem it faces.
 
+If you can not find pip or do not want to register it in system please use: python -m pip install selenium
+
