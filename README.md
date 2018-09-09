@@ -29,6 +29,7 @@ you can do it by using software path PathEditor.exe https://archive.codeplex.com
 **Usage:**
 
 python lolkedin.py 22 pentest example@example.com B00bsterpassw0rd
+ 
 First argument stands for page number you want to start, second one is keyword and login/password.
 
 
