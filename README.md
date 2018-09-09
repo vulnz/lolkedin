@@ -7,7 +7,6 @@
 Software is designed to do massadd in Linkedin social network by keywords using selenium web driver, handling all errors.
 
 <p align="center">
- **Video:**
  <a href=https://streamable.com/zmy5q> <img src="https://preview.ibb.co/nGWhaU/videos.png" width="350"/> </a>
 </p>
 
