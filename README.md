@@ -36,15 +36,24 @@ First argument stands for page number you want to start, second one is keyword a
 
 **Output example in terminal:**
 
-Navigating to another page #: 22
-we are here
-Navigating to another page #: 23
-we are here
-Navigating to another page #: 24
-Navigating to another page #: 25
-Navigating to another page #: 26
-Navigating to another page #: 27
-Navigating to another page #: 28
+Navigating to another page #: 22 
+
+we are here 
+
+Navigating to another page #: 23 
+
+we are here 
+
+Navigating to another page #: 24 
+
+Navigating to another page #: 25 
+
+Navigating to another page #: 26 
+
+Navigating to another page #: 27 
+
+Navigating to another page #: 28 
+
 
 **Problems**:
 
