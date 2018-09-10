@@ -16,13 +16,16 @@ Software is designed to do massadd in Linkedin social network by keywords using 
 *1) Download firefox full or portable*
 
 *2) Register firefox so it could be called from terminal by name "firefox" ( add path), on window by nagigating to folder with firefox
-you can do it by using software path PathEditor.exe https://archive.codeplex.com/?p=patheditor2*
+you can do it by using software path PathEditor.exe https://archive.codeplex.com/?p=patheditor2 or https://rix0rrr.github.io/WindowsPathEditor/ or https://github.com/tinwel/PathEditor or write command for adding path*
 
 *3) install python 3.7*
 
 *4) navigate to lolkedin folder and type in terminal pip install -r requirements OR type pip install selenium*
 
-*5) terminal: python lolkedin.py 1 design example@example.com MyPassW0rd*
+*5) Download and add to path geckodriver https://github.com/mozilla/geckodriver/releases for your OS
+
+
+*6) terminal: python lolkedin.py 1 design example@example.com MyPassW0rd*
 
 
 **Usage:**
