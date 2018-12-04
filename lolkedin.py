@@ -64,13 +64,13 @@ extractorint = int(extractor);
 
 
 def findconnect (pagenumberint,extractorint):
-	firefox.get ('https://www.linkedin.com/search/results/index/?keywords='+str(searchstring)+'&origin=GLOBAL_SEARCH_HEADER&page='+str(pagenumberint)+'');
-	time.sleep(5)
+	firefox.get ('https://www.linkedin.com/search/results/people/?keywords='+str(searchstring)+'&origin=GLOBAL_SEARCH_HEADER&page='+str(pagenumberint)+'');
+	time.sleep(2)
 	firefox.execute_script("document.getElementsByClassName('search-result__actions--primary button-secondary-medium m5')["+str(extractorint)+"].click();")
-	time.sleep(5)
+	time.sleep(2)
 	sendnow = firefox.find_element_by_css_selector(".button-primary-large.ml1")
 	firefox.execute_script("arguments[0].style.visibility = 'visible'; arguments[0].click();", sendnow)
-	time.sleep(4)
+	time.sleep(2)
 	return
 
 def fireball(pagenumberint,extractorint):
